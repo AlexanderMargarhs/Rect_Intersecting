@@ -1,0 +1,9 @@
+Nr_of_rectangles: 8
+2 6 6 2 red
+10 8 14 4 blue
+4 8 8 4 red
+22 6 28 2 green
+12 6 16 2 blue
+10 9 15 4 red
+18 8 26 4 green
+10 14 14 10 blue
